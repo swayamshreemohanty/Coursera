@@ -17,7 +17,7 @@ public class Coursera_Alogirthm_Quiz_Assignment
             System.out.printf("%d ",variable);
             variable=(variable+(2*i))-1;
         }
-
+        input.close();
         //System.out.println("Result is: "+variable);
     }
 
