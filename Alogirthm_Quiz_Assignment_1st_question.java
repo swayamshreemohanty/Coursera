@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Algorithm_test_1st_assignment
+public class Alogirthm_Quiz_Assignment_1st_question
 {
     public static void sequence ()
     {
@@ -17,6 +17,7 @@ public class Algorithm_test_1st_assignment
             System.out.printf("%d ",sequence);
             sequence+=2;
         }
+        
             System.out.println("\n");
         input.close();
     }
