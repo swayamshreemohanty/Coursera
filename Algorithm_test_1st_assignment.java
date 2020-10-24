@@ -18,6 +18,7 @@ public class Algorithm_test_1st_assignment
             sequence+=2;
         }
             System.out.println("\n");
+        input.close();
     }
     public static void main(String[]args)
     {
