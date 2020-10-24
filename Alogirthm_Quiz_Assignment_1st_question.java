@@ -17,7 +17,6 @@ public class Alogirthm_Quiz_Assignment_1st_question
             System.out.printf("%d ",sequence);
             sequence+=2;
         }
-        
         input.close();
     }
     public static void main(String[]args)
