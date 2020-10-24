@@ -18,7 +18,6 @@ public class Alogirthm_Quiz_Assignment_1st_question
             sequence+=2;
         }
         
-            System.out.println("\n");
         input.close();
     }
     public static void main(String[]args)
